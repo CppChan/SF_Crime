@@ -7,7 +7,7 @@ San Francisco Crime Incidents Analysis based on Spark
 * The number of crimes for different district
 * The number of crimes each Sunday at Downtown SF
 * Visualize the spatial distribution of crimes
-* One day analysis on Crime in Downtown SF
+* One day analysis on Crime in Downtown San Francisco
 
 
 ## SF_Crime_03To18.ipynb
